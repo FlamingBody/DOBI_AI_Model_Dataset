@@ -3,6 +3,9 @@ to have problems. Personal, they seem to work
 just fine when I test them is sample model I 
 made. 
 
+I place these image into a different folder than
+our current ones
+
 - Update Negative Lesion folder
 - Update Positive Lesion folder
 
