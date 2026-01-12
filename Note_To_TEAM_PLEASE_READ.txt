@@ -1,0 +1,18 @@
+I tried to dive into the folder Chris believe 
+to have problems. Personal, they seem to work 
+just fine when I test them is sample model I 
+made. 
+
+- Update Negative Lesion folder
+- Update Positive Lesion folder
+
+
+There's way more Positive (Malignant) Lesion 
+than Negative (Benign) Lesion in this sample.
+But please look at them and make your own 
+judgement before adding them to our dataset. 
+
+I'm not a professional doctor and some image
+might be mis-diagnosed. 
+
+That's all! 
